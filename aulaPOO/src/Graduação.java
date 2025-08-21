@@ -1,0 +1,2 @@
+public class Graduação {
+}
